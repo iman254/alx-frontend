@@ -1,0 +1,4 @@
+/* ensures smooth effortless scroll */
+html {
+    scroll-behavior: smooth;
+}
