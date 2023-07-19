@@ -341,11 +341,11 @@ ul.row {
     position: absolute;
     top: -0.1rem;
     left: -0.1rem;
-    right: 0-1rem;
+    right: -0.1rem;
     z-index: 1;
 }
 
-.card-work .card-inner:hover {
+.card-work:hover .card-inner {
     background-color: rgba(0, 0, 0, 0.7);
 
 }
@@ -364,7 +364,7 @@ ul.row {
     padding-top: 45%;
 }
 
-.card-work .card-title::after {
+.card-work .card-title a::after {
     position: absolute;
     top: 0;
     right: 0;
