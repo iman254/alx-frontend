@@ -1,0 +1,1 @@
+This is a responsive design readme to be well updated.
